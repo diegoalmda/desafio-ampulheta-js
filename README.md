@@ -1,28 +1,6 @@
 ## Motivação para criação do projeto
 Desafio de código proposto pela empresa Mobix para participação de processo seletivo. No qual foi proposto ao candidato a construção de uma ampulheta que seria desenhada no console a partir de um valor de entrada `n` fornecido pelo usuário com n >= 20, não sendo permitido uso de nenhuma biblioteca auxiliar de desenhos, mas apenas lógica de programação com Javascript. 
 
-`####################
-####################
-# ################ #
-#  ##############  #
-#   ############   #
-#    ##########    #
-#     ########     #
-#      ######      #
-#       ####       #
-#        ##        #
-#        ##        #
-#       #  #       #
-#      #    #      #
-#     #      #     #
-#    #        #    #
-#   #          #   #
-#  #            #  #
-# #              # #
-##                ##
-####################
-n = 20`
-
 ### Requisitos de software utilizados
 - VSCode
 - Node
